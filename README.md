@@ -7,3 +7,12 @@ A simple calculator that supports addition (+), subtraction (-), multiplication 
   Includes a cross-platform application that runs on the web, mobile, and desktop.
   ## Running the Project  
 To run this project on your local machine, clone the repository and install the required programming languages.  
+Test the web app [here](https://ghezilothmane.github.io/Calculator/
+).\
+If you find any errors don't hesitate to report them, Thank you (-_-)
+
+## Steps to Run the Files in VS Code
+1. Install **VS Code** or any other editor of your choice.  
+2. Clone the repository using `git clone`.  
+3. Open **VS Code**.  
+4. Run the file and enjoy!  
